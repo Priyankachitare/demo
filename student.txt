@@ -1,0 +1,3 @@
+student name snehal
+location pune;
+student roll number 43
